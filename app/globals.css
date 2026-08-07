@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  border-color: rgb(38 50 56 / 0.12);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #fffcf7;
+  color: #263238;
+  font-family: var(--font-nunito), system-ui, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: #f9c74f;
+  color: #263238;
+}
+
+:focus-visible {
+  outline: 3px solid #e9856b;
+  outline-offset: 3px;
+}

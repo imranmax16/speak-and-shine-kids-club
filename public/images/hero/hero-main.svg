@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Speak &amp; Shine Kids Club öğrenme anı</title><desc id="desc">Neşeli bir öğrenme ortamını temsil eden soyut çocuk illüstrasyonu</desc>
+  <rect width="800" height="800" rx="72" fill="#FBE4D2"/><circle cx="650" cy="130" r="104" fill="#F9C74F" opacity=".75"/><circle cx="130" cy="680" r="150" fill="#CDE9DD"/>
+  <path d="M120 566c68-91 145-136 232-136s166 45 238 136v142H120z" fill="#E9856B"/><circle cx="350" cy="286" r="128" fill="#B66C4B"/><path d="M255 291c0-84 48-145 116-145s128 59 128 142c-44-27-80-39-117-39-46 0-84 15-127 42z" fill="#263238"/><circle cx="308" cy="298" r="10" fill="#263238"/><circle cx="398" cy="298" r="10" fill="#263238"/><path d="M320 354c28 22 54 22 82 0" fill="none" stroke="#263238" stroke-linecap="round" stroke-width="11"/>
+  <rect x="462" y="392" width="198" height="158" rx="18" fill="#fff" transform="rotate(8 462 392)"/><text x="500" y="480" fill="#263238" font-family="Arial, sans-serif" font-size="48" font-weight="700">A B C</text><path d="m564 120 13 28 30 4-22 21 6 30-27-15-27 15 5-30-22-21 31-4z" fill="#E9856B"/>
+</svg>
